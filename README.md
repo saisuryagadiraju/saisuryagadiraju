@@ -85,11 +85,56 @@ I recently completed my **Master’s from George Mason University**, where I led
 ---
 
 ##  Tech Toolbox
+Programming Languages
+Python, SQL, JavaScript, Scala, C++, Bash
 
-**Languages:** Python, SQL, JavaScript, Scala, C++  
-**LLM & ML Tools:** PyTorch, TensorFlow, Hugging Face, LangChain, Scikit-Learn  
-**Cloud:** AWS (EC2, S3, SageMaker, Neptune), Azure (Data Factory, Synapse)  
-**Data Platforms:** Snowflake, PostgreSQL, MySQL, Databricks, Kafka  
-**DevOps:** Docker, Kubernetes, Terraform, Jenkins, GitHub Actions  
-**Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
-**Security & Compliance:** SSL/TLS, RBAC, Great Expectations, GDPR
+Machine Learning & NLP
+Scikit-learn, TensorFlow, PyTorch, Keras, MLlib, Hugging Face, LangChain
+
+Transformers, LoRA, RAG, Prompt Engineering
+
+NLP Tools: NLTK, SpaCy
+
+LLM & Foundation Model Tools
+Hugging Face Transformers, LangChain, Ollama, CUDA-accelerated deployment
+
+Text-to-SQL, Semantic Search, Vector Databases (FAISS, SQLite, Pinecone)
+
+Cloud Platforms
+AWS: EC2, S3, SageMaker, Neptune, Glue, Lambda
+
+Azure: Data Factory, Blob Storage, Synapse Analytics
+
+Google Cloud (GCP): BigQuery (basic), Compute Engine
+
+Data Engineering & Processing
+Apache Spark, Apache Kafka, Apache Airflow, Apache NiFi, PySpark
+
+SQL Server Integration Services (SSIS), Informatica, Azure Data Factory
+
+Data Lakes & Lakehouses, Data Warehousing (Snowflake, Databricks)
+
+Databases
+Snowflake, PostgreSQL, MySQL, Oracle DB, MongoDB, SQLite
+
+Graph Databases: AWS Neptune, Neo4j
+
+REST APIs, Postman, ADO.NET
+
+DevOps & CI/CD
+Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Azure DevOps
+
+Infrastructure as Code (IaC), Ansible, RBAC, IAM
+
+Security & Compliance
+SSL/TLS, Role-Based Access Control (RBAC), Attribute-Based Access Control (ABAC)
+
+Data Governance, GDPR, Great Expectations for data validation
+
+Data Visualization & BI
+Power BI, Tableau, Excel (Pivot Tables, VBA), Matplotlib, Seaborn, Plotly, Dash
+
+ArcGIS, Gephi (for network & spatial data visualization)
+
+Version Control & Collaboration
+Git, GitHub, GitLab, Jira, Confluence
