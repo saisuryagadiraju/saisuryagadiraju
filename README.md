@@ -1,8 +1,7 @@
 # Sai-Surya-Gadiraju
 
-# Hi, I'm Sai Surya Gadiraju
-
- **M.S. in Data Analytics Engineering – George Mason University**  
+ **Masters in Data Analytics Engineering – George Mason University**  -- USA
+ **Bachelores in Electronics and Communication Engineering- Andhra University** -- India
 **Machine Learning Researcher | Data Engineer | GenAI Enthusiast**  
 🔗 [LinkedIn](https://www.linkedin.com/in/ssgadiraju/) |  [GitHub](https://github.com/saisuryagadiraju) |  Email: saisurya996644@gmail.com
 
