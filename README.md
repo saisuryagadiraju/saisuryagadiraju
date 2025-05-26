@@ -86,7 +86,7 @@ I recently completed my **Master’s from George Mason University**, where I led
 
 
 
-## 🛠Technical Skills
+##  Technical Skills
 
 ### Programming Languages
 **Python**, **SQL**, **JavaScript**, **Scala**, **C++**, **Bash**
@@ -105,22 +105,22 @@ I recently completed my **Master’s from George Mason University**, where I led
 - **Azure:** Data Factory, Blob Storage, Synapse Analytics  
 - **Google Cloud:** BigQuery, Compute Engine
 
-### 🏗Data Engineering & Processing
+###  Data Engineering & Processing
 **Apache Spark**, **Apache Kafka**, **Apache Airflow**, **Apache NiFi**, **PySpark**  
 **ETL Tools:** SSIS, Azure Data Factory  
 **Data Warehousing & Lakehouses:** Snowflake, Databricks
 
-### Databases
+###  Databases
 **Snowflake**, **PostgreSQL**, **MySQL**, **MongoDB**, **Oracle**, **SQLite**  
 **Graph Databases:** AWS Neptune, Neo4j  
 **APIs & Querying:** REST APIs, Postman, ADO.NET
 
-### DevOps & CI/CD
+###  DevOps & CI/CD
 **Docker**, **Kubernetes**, **Terraform**, **Jenkins**, **GitHub Actions**, **Azure DevOps**  
 **IaC Tools:** Terraform, Ansible  
 **Authentication & Access:** RBAC, IAM
 
-### Security & Compliance
+###  Security & Compliance
 **SSL/TLS**, **RBAC**, **ABAC**, **Data Governance**, **GDPR**, **Great Expectations**
 
 ###  Data Visualization & BI
