@@ -84,57 +84,48 @@ I recently completed my **Master’s from George Mason University**, where I led
 
 ---
 
-##  Tech Toolbox
-Programming Languages
-Python, SQL, JavaScript, Scala, C++, Bash
 
-Machine Learning & NLP
-Scikit-learn, TensorFlow, PyTorch, Keras, MLlib, Hugging Face, LangChain
 
-Transformers, LoRA, RAG, Prompt Engineering
+## 🛠Technical Skills
 
-NLP Tools: NLTK, SpaCy
+### Programming Languages
+**Python**, **SQL**, **JavaScript**, **Scala**, **C++**, **Bash**
 
-LLM & Foundation Model Tools
-Hugging Face Transformers, LangChain, Ollama, CUDA-accelerated deployment
+###  Machine Learning & NLP
+**Scikit-learn**, **TensorFlow**, **PyTorch**, **Keras**, **MLlib**, **Hugging Face**, **LangChain**  
+**Transformers**, **LoRA**, **RAG**, **Prompt Engineering**  
+**NLP Tools:** NLTK, SpaCy
 
-Text-to-SQL, Semantic Search, Vector Databases (FAISS, SQLite, Pinecone)
+### LLM & Foundation Model Tools
+**Hugging Face Transformers**, **LangChain**, **Ollama**, **CUDA**, **Text-to-SQL**, **Semantic Search**  
+**Vector DBs:** FAISS, SQLite, Pinecone
 
-Cloud Platforms
-AWS: EC2, S3, SageMaker, Neptune, Glue, Lambda
+###  Cloud Platforms
+- **AWS:** EC2, S3, SageMaker, Glue, Neptune, Lambda  
+- **Azure:** Data Factory, Blob Storage, Synapse Analytics  
+- **Google Cloud:** BigQuery, Compute Engine
 
-Azure: Data Factory, Blob Storage, Synapse Analytics
+### 🏗Data Engineering & Processing
+**Apache Spark**, **Apache Kafka**, **Apache Airflow**, **Apache NiFi**, **PySpark**  
+**ETL Tools:** SSIS, Azure Data Factory  
+**Data Warehousing & Lakehouses:** Snowflake, Databricks
 
-Google Cloud (GCP): BigQuery (basic), Compute Engine
+### Databases
+**Snowflake**, **PostgreSQL**, **MySQL**, **MongoDB**, **Oracle**, **SQLite**  
+**Graph Databases:** AWS Neptune, Neo4j  
+**APIs & Querying:** REST APIs, Postman, ADO.NET
 
-Data Engineering & Processing
-Apache Spark, Apache Kafka, Apache Airflow, Apache NiFi, PySpark
+### DevOps & CI/CD
+**Docker**, **Kubernetes**, **Terraform**, **Jenkins**, **GitHub Actions**, **Azure DevOps**  
+**IaC Tools:** Terraform, Ansible  
+**Authentication & Access:** RBAC, IAM
 
-SQL Server Integration Services (SSIS), Informatica, Azure Data Factory
+### Security & Compliance
+**SSL/TLS**, **RBAC**, **ABAC**, **Data Governance**, **GDPR**, **Great Expectations**
 
-Data Lakes & Lakehouses, Data Warehousing (Snowflake, Databricks)
+###  Data Visualization & BI
+**Power BI**, **Tableau**, **Excel (Pivot Tables, VBA)**, **Matplotlib**, **Seaborn**, **Plotly**, **Dash**  
+**Spatial & Network Viz:** ArcGIS, Gephi
 
-Databases
-Snowflake, PostgreSQL, MySQL, Oracle DB, MongoDB, SQLite
-
-Graph Databases: AWS Neptune, Neo4j
-
-REST APIs, Postman, ADO.NET
-
-DevOps & CI/CD
-Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Azure DevOps
-
-Infrastructure as Code (IaC), Ansible, RBAC, IAM
-
-Security & Compliance
-SSL/TLS, Role-Based Access Control (RBAC), Attribute-Based Access Control (ABAC)
-
-Data Governance, GDPR, Great Expectations for data validation
-
-Data Visualization & BI
-Power BI, Tableau, Excel (Pivot Tables, VBA), Matplotlib, Seaborn, Plotly, Dash
-
-ArcGIS, Gephi (for network & spatial data visualization)
-
-Version Control & Collaboration
-Git, GitHub, GitLab, Jira, Confluence
+###  Version Control & Collaboration
+**Git**, **GitHub**, **GitLab**, **Jira**, **Confluence**
